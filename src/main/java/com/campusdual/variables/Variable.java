@@ -7,6 +7,7 @@ public class Variable {
         String name = "Ramiro";
         final int DAY_HOURS = 24;
         name = "Bruno";
+
         System.out.println(DAY_HOURS);
     }
 }
