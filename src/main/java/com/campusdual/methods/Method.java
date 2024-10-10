@@ -47,4 +47,3 @@ public class Method {
     }
 }
 
-Ejercicios finalizados
