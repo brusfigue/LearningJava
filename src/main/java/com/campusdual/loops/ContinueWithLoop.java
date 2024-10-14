@@ -2,7 +2,7 @@ package com.campusdual.loops;
 
 import com.campusdual.Utils;
 
-public class ContinueWithoop {
+public class ContinueWithLoop {
 
     public static void continueExample(){
         int num = Utils.integer ("Write a number: ");
@@ -10,7 +10,7 @@ public class ContinueWithoop {
                 if ( i % 2 != 0) {
                     continue;
                 }
-            System.out.println( i + "/2 = " + (i/2));
+            System.out.println( i + "/2 = Lo" + (i/2));
         }
     }
 
