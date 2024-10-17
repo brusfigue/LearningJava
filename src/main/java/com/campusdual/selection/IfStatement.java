@@ -17,7 +17,7 @@ public class IfStatement {
     }
 
     public static void methodIfElseIf(int value) {
-        if (value >= 10){
+        if (value >= 10) {
             System.out.println("3.- Greater or equal than 10");
         } else if (value <= 5) {
             System.out.println("3.- Lower or equal than 5");
@@ -28,7 +28,7 @@ public class IfStatement {
     }
 
     public static void main(String[] args) {
-        int myNum = 8;
+        int myNum = 7;
 
                 methodIf(myNum);
                 methodIfElse(myNum);
