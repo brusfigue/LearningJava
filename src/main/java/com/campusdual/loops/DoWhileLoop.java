@@ -2,7 +2,7 @@ package com.campusdual.loops;
 
 import com.campusdual.Utils;
 
-public class DoWhiteLoop {
+public class DoWhileLoop {
 
     public static void interactiveMenu(){
         int opt = 0;

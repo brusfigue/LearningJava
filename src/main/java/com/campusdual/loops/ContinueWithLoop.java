@@ -10,7 +10,7 @@ public class ContinueWithLoop {
                 if ( i % 2 != 0) {
                     continue;
                 }
-            System.out.println( i + "/2 = Lo" + (i/2));
+            System.out.println( i + "/2 =  " + (i/2));
         }
     }
 
